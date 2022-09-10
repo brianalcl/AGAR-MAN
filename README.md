@@ -7,3 +7,5 @@ Esta es una simple replica del juego PAC-MAN con algunas libertades de creación
 - Diseño modular.
 - Concurrencia. 
 - Entre otros.
+
+Proyecto original ahora en estado publico: https://github.com/AgusF22/tdp-proyecto-3
